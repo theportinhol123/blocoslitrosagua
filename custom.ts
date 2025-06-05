@@ -29,4 +29,3 @@ export function mostrarLitros(): void {
 export function obterLitros(): number {
     return totalLitros
 }
-
