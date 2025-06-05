@@ -1,0 +1,13 @@
+{
+  "name": "blocoslitrosagua",
+  "version": "0.0.1",
+  "description": "Extensão com blocos para medir litros de água com sensor de fluxo.",
+  "dependencies": {},
+  "files": [
+    "custom.ts"
+  ],
+  "targetVersions": {
+    "microbit": "0.14.4",
+    "codal": "1.5.2"
+  }
+}
